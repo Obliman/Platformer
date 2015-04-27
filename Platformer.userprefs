@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerWave.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerWave.cs" Line="27" Column="13" />
-      <File FileName="Assets\Scripts\WaveMove.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Float.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\PlayerMove.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Aimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMove.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\PlayerWave.cs" Line="9" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

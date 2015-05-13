@@ -6,7 +6,7 @@ public class PlayerWave : MonoBehaviour {
     public GameObject wave;
     public ParticleSystem part;
     bool initPress = true;
-    float useRate = 0.75f;
+    float useRate = 0.5f;
     float useTime = 0.0f;
     	
 	void FixedUpdate () {

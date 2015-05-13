@@ -1,9 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpawnManager.cs">
     <Files>
+      <File FileName="Assets\Scripts\SpawnManager.cs" Line="18" Column="23" />
+      <File FileName="Assets\Scripts\Checkpoint.cs" Line="12" Column="36" />
       <File FileName="Assets\Scripts\PlayerWave.cs" Line="11" Column="6" />
-      <File FileName="Assets\Scripts\PlayerMove.cs" Line="10" Column="21" />
+      <File FileName="Assets\Scripts\PlayerMove.cs" Line="14" Column="39" />
+      <File FileName="Assets\Scripts\Spike.cs" Line="7" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

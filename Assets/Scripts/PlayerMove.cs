@@ -10,6 +10,9 @@ public class PlayerMove : MonoBehaviour {
 	int maxCharges = 8;
     public Sprite[] img;
 
+    void Start(){
+        position = transform.position;
+    }
 
 	void FixedUpdate () {
         position = transform.position;

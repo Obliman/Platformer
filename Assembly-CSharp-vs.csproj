@@ -48,10 +48,12 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Aimer.cs" />
      <Compile Include="Assets\Scripts\CamFollower.cs" />
+     <Compile Include="Assets\Scripts\Checkpoint.cs" />
      <Compile Include="Assets\Scripts\Float.cs" />
      <Compile Include="Assets\Scripts\Holder.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <Compile Include="Assets\Scripts\PlayerWave.cs" />
+     <Compile Include="Assets\Scripts\SpawnManager.cs" />
      <Compile Include="Assets\Scripts\Spike.cs" />
      <Compile Include="Assets\Scripts\WaveMove.cs" />
      <Compile Include="Assets\Scripts\WaveParticles.cs" />

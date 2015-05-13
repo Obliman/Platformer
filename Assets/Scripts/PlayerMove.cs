@@ -6,7 +6,7 @@ public class PlayerMove : MonoBehaviour {
 	public static int charges = 8;
     public static Vector3 position;
 	float chargeTime = 0.0f;
-	float genTime = 1.0f;
+	float genTime = 0.5f;
 	int maxCharges = 8;
     public Sprite[] img;
 
